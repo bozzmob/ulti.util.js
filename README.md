@@ -1,0 +1,1 @@
+ulti.util.js = "Ultimate Utility for Javascript". Simplify your Javascript Coding Experience.
