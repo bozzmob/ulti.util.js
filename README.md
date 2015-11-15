@@ -10,3 +10,4 @@
 
 
 License - MIT License (MIT)
+*Please refer the License file for more information*
